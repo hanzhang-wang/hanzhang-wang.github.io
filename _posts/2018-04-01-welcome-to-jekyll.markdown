@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: NEWS
+title:  "Welcome to Meow's home!"
 date:   2018-04-01 15:20:28 +0800
 categories: jekyll update
 ---
