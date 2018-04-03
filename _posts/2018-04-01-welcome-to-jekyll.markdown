@@ -1,28 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Meow's home!"
+title:  "Categorizing Concepts with Basic Level for Vision-to-Language"
 date:   2018-04-01 15:20:28 +0800
-categories: jekyll update
+categories: ImageCaption BasicLevel CVPR
 ---
 
+BaC Category(wnid), GoogLeNet pre-train model, and prototxt can be downloaded [here](https://drive.google.com/open?id=1Oa1jIosA9Cuk9vZ7vFoP43wqZagihKMe)
 
-BaC Category(wnid):
-GoogLeNet pre-train model:
-prototxt:
-
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
