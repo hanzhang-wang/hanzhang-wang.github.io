@@ -2,7 +2,7 @@
 layout: post
 title:  "Categorizing Concepts with Basic Level for Vision-to-Language"
 date:   2018-04-01 15:20:28 +0800
-categories: ImageCaption BasicLevel CVPR
+categories: BasicLevel
 ---
 
 BaC Category(wnid), GoogLeNet pre-train model, and prototxt can be downloaded [here](https://drive.google.com/open?id=1Oa1jIosA9Cuk9vZ7vFoP43wqZagihKMe)
