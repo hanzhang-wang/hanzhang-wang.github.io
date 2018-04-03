@@ -25,7 +25,7 @@ github_username:  hanzhang-wang
 # Build settings
 markdown: kramdown
 remote_theme: janczizikow/sleek
-theme: jekyll-sleek
+# theme: jekyll-sleek
 plugins:
   - jekyll-feed
 
