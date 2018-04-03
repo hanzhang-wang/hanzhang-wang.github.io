@@ -24,7 +24,7 @@ github_username:  hanzhang-wang
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-sleek
 plugins:
   - jekyll-feed
 
