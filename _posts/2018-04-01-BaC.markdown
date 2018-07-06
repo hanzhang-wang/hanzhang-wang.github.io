@@ -7,5 +7,5 @@ categories: BasicLevel
 
 BaC Category(wnid), GoogLeNet pre-train model, and prototxt can be downloaded [here](https://drive.google.com/open?id=1Oa1jIosA9Cuk9vZ7vFoP43wqZagihKMe)
 
-if you have any questions (implement details, more results, doults and discussion, etc.), please feel free to contact me: hanzhang.wang@tongji.edu.cn
+If you have any questions, please feel free to contact me: hanzhang.wang@tongji.edu.cn
 
