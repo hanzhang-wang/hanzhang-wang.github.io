@@ -9,3 +9,4 @@ BaC Category(wnid), GoogLeNet pre-train model, and prototxt can be downloaded [h
 
 If you have any questions, please feel free to contact me: hanzhang.wang@tongji.edu.cn
 
+PDF is available [here](https://github.com/hanzhang-wang/hanzhang-wang.github.io/blob/master/_files/Categorizing%20Concepts%20with%20Basic%20Level%20for%20Vision-to-Language.pdf)
