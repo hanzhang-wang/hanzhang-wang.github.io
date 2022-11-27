@@ -2,49 +2,56 @@
 layout: homepage
 ---
 
-## About Me
+## 👀 Looking For …
 
-I am a Ph.D. student at ...
+- <p style="font-size: 14px;">长期招收本科生和研究生。本实验室专注探索多模态理解中的各类前沿问题，组内风格自由平等、简单高效，GPU充足，能提供充分、有效的科研指导。欢迎对学术有兴趣，敢于尝试新想法，或有较强代码能力的同学与我交流联系。</p>
 
-## Research Interests
+## 🚞 Experience
+<li style="position: relative;">
+  2021.11 - present
+  <span style="position: absolute; left: 150px;"><strong>Assistant Professor</strong>(讲师)</span>
+　<span style="position: absolute; left: 350px;">Shanghai University</span>
+</li>
+<li style="position: relative;">
+  2021.07 - 2021.08
+  <span style="position: absolute; left: 150px;"><strong>Intern Researcher</strong></span>
+　<span style="position: absolute; left: 350px;">Tencent</span>
+</li>
+<li style="position: relative;">
+  2016.09 - 2021.09
+  <span style="position: absolute; left: 150px;"><strong>Ph.D</strong></span>
+　<span style="position: absolute; left: 350px;">Tongji University</span>
+</li>
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+## 💖 Research Interests
 
-## News
+- **Vision-and-Language Understanding**
+  - Captioning
+  - Storytelling
+- **Robust Multimodal Pre-training**
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## 🔮 Selected Publications
 
-## Publications
-
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Evolutionary Recurrent Neural Network for Image Captioning.**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Hanzhang Wang**, Hanli Wang, and Kaisheng Xu
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  Neurocomputing. 2020: 401, 249-256.
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Swell-and-Shrink: Decomposing Image Captioning by Transformation and Summarization.**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  **Hanzhang Wang**, Hanli Wang, and Kaisheng Xu
+  <br>Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI). 2019: 5226-5232.
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Categorizing concepts with basic level for vision-to-language.**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Hanzhang Wang**, Hanli Wang, and Kaisheng Xu
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018: 4962-4970.
 
-## Services
+- **Richer semantic visual and language representation for video captioning.**
+  <br>
+  Pengjie Tang, Hanli Wang, **Hanzhang Wang**, and Kaisheng Xu
+  <br>
+  Proceedings of the 25th ACM international conference on Multimedia (ACM MM). 2017: 1871-1876.
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
