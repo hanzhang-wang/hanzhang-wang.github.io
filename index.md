@@ -26,9 +26,9 @@ layout: homepage
 ## 💖 Research Interests
 
 - **Vision-and-Language Understanding**
-  - Captioning
-  - Storytelling
-- **Robust Multimodal Pre-training**
+  - Captioning/Storytelling
+  - Unified Representation
+  - Adversarial Robustness
 
 ## 🔮 Selected Publications
 
