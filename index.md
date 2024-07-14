@@ -7,21 +7,16 @@ layout: homepage
 - <p style="font-size: 14px;">长期招收本科生和研究生。本实验室专注探索多模态理解中的各类前沿问题，组内风格自由平等、简单高效，GPU充足，能提供充分、有效的科研指导。欢迎对学术有兴趣有想法、敢于探索尝试，或有较强代码能力的同学与我交流联系。</p>
 
 ## 🚞 Experience
-<li style="position: relative;">
+  <li style="position: relative;">
   2021.11 - present
-  <span style="position: absolute; left: 150px;"><strong>Assistant Professor</strong>(讲师)</span>
+  <span style="position: absolute; left: 150px;"><strong>Assistant Professor (讲师)</strong></span>
 　<span style="position: absolute; left: 350px;">Shanghai University</span>
-</li>
-<li style="position: relative;">
-  2021.07 - 2021.08
-  <span style="position: absolute; left: 150px;"><strong>Intern Researcher</strong></span>
-　<span style="position: absolute; left: 350px;">Tencent</span>
-</li>
-<li style="position: relative;">
+  </li>
+  <li style="position: relative;">
   2016.09 - 2021.09
   <span style="position: absolute; left: 150px;"><strong>Ph.D</strong></span>
 　<span style="position: absolute; left: 350px;">Tongji University</span>
-</li>
+  </li>
 
 ## 💖 Research Interests
 
@@ -32,6 +27,12 @@ layout: homepage
 
 ## 🔮 Selected Publications
 
+- **Exploring Intrinsic Dimension for Vision-Language Model Pruning.**
+  <br>
+  **Hanzhang Wang**, Jiawen Zhang, and Qingyuan Ma
+  <br>
+  Forty-first International Conference on Machine Learning (ICML). 2024.
+  
 - **Evolutionary Recurrent Neural Network for Image Captioning.**
   <br>
   **Hanzhang Wang**, Hanli Wang, and Kaisheng Xu
@@ -54,4 +55,8 @@ layout: homepage
   Pengjie Tang, Hanli Wang, **Hanzhang Wang**, and Kaisheng Xu
   <br>
   Proceedings of the 25th ACM international conference on Multimedia (ACM MM). 2017: 1871-1876. (CCF-A)
+
+## 💞 Lab Moments
+<img src="https://github.com/user-attachments/assets/4f6f0fce-0f69-40e4-9a05-0c3cb2ae94e6" alt="Lab Moments" width="200" />
+
 
