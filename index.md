@@ -5,6 +5,7 @@ layout: homepage
 ## 👀 Looking For …
 
 - <p style="font-size: 14px;">长期招收本科生和研究生。本实验室专注探索多模态理解中的各类前沿问题，组内风格自由平等、简单高效，GPU充足，能提供充分、有效的科研指导。欢迎对学术有兴趣有想法、敢于探索尝试，或有较强代码能力的同学与我交流联系。</p>
+- <p style="font-size: 14px;"><strong>24年已无名额。如果的确对我的实验室感兴趣，请尽早联系，越早越好，我的名额非常非常有限。<strong></p>
 
 ## 🚞 Experience
   <li style="position: relative;">
