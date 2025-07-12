@@ -3,10 +3,10 @@ layout: homepage
 ---
 
 ## 👀 Looking For …
-
-- <p style="font-size: 14px;"><strong>25年可能还有一个名额。如果的确对我的实验室感兴趣，请尽早联系，越早越好。</strong></p>
-- <p style="font-size: 14px;">长期招收本科生和研究生，也欢迎任何学术交流合作。</p>
 - <p style="font-size: 14px;">  实验室专注探索多模态理解中的各类前沿问题，风格自由平等、简单高效，提供充分的科研支持与资源。欢迎对学术有兴趣有想法、敢于探索尝试，或有较强代码能力的同学与我交流联系。</p>
+- <p style="font-size: 14px;">长期招收本科生和研究生，欢迎任何学术交流合作。</p>
+- <p style="font-size: 14px;"><strong>25年可能还有一个名额。如果的确对我的实验室感兴趣，请尽早联系，越早越好。</strong></p>
+
 
 
 ## 🚞 Experience
@@ -23,18 +23,23 @@ layout: homepage
 
 ## 💖 Research Interests
 
-- **Vision-and-Language Understanding**
+- **Vision-Language Understanding**
   - Captioning/Storytelling
   - Unified Representation
-  - Adversarial Robustness
+  - Safety
 
 ## 🔮 Selected Publications
-
+- **Textural or Textual: How Vision-Language Models Read Text in Images.**
+  <br>
+  **Hanzhang Wang**, Qingyuan Ma
+  <br>
+  Forty-second International Conference on Machine Learning (ICML). 2025.
+  
 - **Exploring Intrinsic Dimension for Vision-Language Model Pruning.**
   <br>
   **Hanzhang Wang**, Jiawen Zhang, and Qingyuan Ma
   <br>
-  Forty-first International Conference on Machine Learning (ICML). 2024.
+  Forty-first International Conference on Machine Learning (ICML), PMLR 235:52247-52259, 2024. (CCF-A)
   
 - **Evolutionary Recurrent Neural Network for Image Captioning.**
   <br>
@@ -65,17 +70,23 @@ layout: homepage
 
 - 2023, **National Natural Science Foundation of China**
 
-## 🔍 Service
+## 🧐 Service
 
 - **Reviewer**
   - ICML/ICLR/NeurIPS/AISTATS/CVPR/...
+  
+## 👥 People
+
+- Chongxin Li, Master's Student
+- Zhengyi Gu, Undergraduate Student -> Nanyang Technological University
+- Lian Duan, Master's Student
+- Qingyuan Ma, Undergraduate Student -> University of Amsterdam
+- Jiawen Zhang, Master's Student -> Huawei
 
 ## 💞 Lab Moments
 
-<img src="https://github.com/user-attachments/assets/50485466-539b-43e7-9777-3c05d882a0f1" alt="Lab Moments 2" height="200" />
-
-<img src="https://github.com/user-attachments/assets/667df73f-18f7-4181-8d0b-25ba0bc9b2ca" alt="Lab Moments 1" height="200" />
-
-<img src="https://github.com/user-attachments/assets/4f6f0fce-0f69-40e4-9a05-0c3cb2ae94e6" alt="Lab Moments" height="200" />
-
-
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 5px; scrollbar-width: thin;">
+  <img src="https://github.com/user-attachments/assets/3d501b24-e4b1-443e-a781-7edef5cb2761" alt="Lab Moments 2" height="200" />
+  <img src="https://github.com/user-attachments/assets/667df73f-18f7-4181-8d0b-25ba0bc9b2ca" alt="Lab Moments 1" height="200" />
+  <img src="https://github.com/user-attachments/assets/4f6f0fce-0f69-40e4-9a05-0c3cb2ae94e6" alt="Lab Moments" height="200" />
+</div>
