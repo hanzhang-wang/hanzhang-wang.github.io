@@ -77,11 +77,12 @@ layout: homepage
   
 ## 👥 People
 
-- Chongxin Li, Master's Student
-- Zhengyi Gu, Undergraduate Student -> Nanyang Technological University
-- Lian Duan, Master's Student
-- Qingyuan Ma, Undergraduate Student -> University of Amsterdam
-- Jiawen Zhang, Master's Student -> Huawei
+- Shiyu Lu, MSc
+- Chongxin Li, MSc
+- Zhengyi Gu, BSc -> MSc, Nanyang Technological University
+- Lian Duan, MSc
+- Qingyuan Ma, BSc -> MSc, University of Amsterdam
+- Jiawen Zhang, MSc -> Algorithm Engineer, Huawei
 
 ## 💞 Lab Moments
 
