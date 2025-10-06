@@ -12,7 +12,7 @@ layout: homepage
 ## 🚞 Experience
   <li style="position: relative;">
   2021.11 - present
-  <span style="position: absolute; left: 150px;"><strong>Assistant Professor (讲师)</strong></span>
+  <span style="position: absolute; left: 150px;"><strong>Assistant Professor/讲师</strong></span>
 　<span style="position: absolute; left: 350px;">Shanghai University</span>
   </li>
   <li style="position: relative;">
@@ -29,11 +29,17 @@ layout: homepage
   - Safety
 
 ## 🔮 Selected Publications
+- **Attack as Defense: Safeguarding Large Vision-Language Models from Jailbreaking by Adversarial Attacks.**
+  <br>
+  Chongxin li, **Hanzhang Wang (Corr.)**, Yuchun Fang
+  <br>
+  EMNLP Findings. 2025.
+  
 - **Textural or Textual: How Vision-Language Models Read Text in Images.**
   <br>
   **Hanzhang Wang**, Qingyuan Ma
   <br>
-  Forty-second International Conference on Machine Learning (ICML). 2025.
+  ICML. 2025.
   
 - **Exploring Intrinsic Dimension for Vision-Language Model Pruning.**
   <br>
@@ -68,7 +74,7 @@ layout: homepage
 
 - 2024, **Google China Academic Cooperation Project**
 
-- 2023, **National Natural Science Foundation of China**
+- 2023.1 - 2015.12, **National Natural Science Foundation of China**
 
 ## 🧐 Service
 
