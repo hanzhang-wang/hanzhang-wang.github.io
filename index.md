@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## 👀 Looking For …
-- <p style="font-size: 14px;">  实验室持续探索多模态理解中的各类前沿问题，风格自由平等、简单高效，提供充分的科研支持与资源。近期主要关注视觉语言模型的高效表征和安全性问题，欢迎<strong>对学术有兴趣有想法、敢于探索尝试，或有较强代码能力的同学与我交流联系。</strong></p>
+- <p style="font-size: 14px;">  实验室持续探索多模态理解中的各类前沿问题，风格自由平等、简单高效，提供充分的科研支持与资源。近期主要关注视觉语言模型的高效表征和安全问题，欢迎<strong>对学术有兴趣有想法、敢于探索尝试</strong>，或有较强代码能力的同学与我交流联系。</p>
 
 - <p style="font-size: 14px;">25年已无名额，26年预计有1个名额。<strong>如果的确对我的实验室非常感兴趣，请尽早联系，越早越好。</strong></p>
 
@@ -11,7 +11,7 @@ layout: homepage
 
 ## 🚞 Experience
   <li style="position: relative;">
-  2021.11 - present
+  2021.11 - Present
   <span style="position: absolute; left: 150px;"><strong>Assistant Professor/讲师</strong></span>
 　<span style="position: absolute; left: 350px;">Shanghai University</span>
   </li>
@@ -31,7 +31,7 @@ layout: homepage
 ## 🔮 Selected Publications
 - **Attack as Defense: Safeguarding Large Vision-Language Models from Jailbreaking by Adversarial Attacks.**
   <br>
-  Chongxin li, **Hanzhang Wang (Corr.)**, Yuchun Fang
+  Chongxin Li, **Hanzhang Wang (Corr.)**, Yuchun Fang
   <br>
   EMNLP Findings. 2025.
   
@@ -74,21 +74,21 @@ layout: homepage
 
 - 2024, **Google China Academic Cooperation Project**
 
-- 2023.1 - 2015.12, **National Natural Science Foundation of China**
+- 2023.1 - 2025.12, **National Natural Science Foundation of China**
 
 ## 🧐 Service
 
 - **Reviewer**
-  - ICML/ICLR/NeurIPS/AISTATS/CVPR/...
+  - ICML/ICLR/NeurIPS/AISTATS/CVPR/ICRA...
   
 ## 👥 People
 
 - Shiyu Lu, MSc
 - Chongxin Li, MSc
-- Zhengyi Gu, BSc -> MSc, Nanyang Technological University
+- Zhengyi Gu, BSc -> Intern, BOSCH / MSc, Nanyang Technological University
 - Lian Duan, MSc
-- Qingyuan Ma, BSc -> MSc, University of Amsterdam
-- Jiawen Zhang, MSc -> Algorithm Engineer, Huawei
+- Qingyuan Ma, BSc -> Intern, OPPO / MSc, University of Amsterdam
+- Jiawen Zhang, MSc -> Intern, PingAn Tech. / Algorithm Engineer, Huawei
 
 ## 💞 Lab Moments
 
