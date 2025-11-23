@@ -3,9 +3,11 @@ layout: homepage
 ---
 
 ## 👀 Looking For …
-- <p style="font-size: 14px;">  实验室持续探索多模态理解中的各类前沿问题，风格自由平等、简单高效，提供充分的科研支持与资源。近期主要关注视觉语言模型的高效表征和安全问题，欢迎<strong>对学术有兴趣有想法、敢于探索尝试</strong>，或有较强代码能力的同学与我交流联系。</p>
+- <p style="font-size: 14px;">  实验室持续探索视觉-语言理解中的各类前沿问题，风格自由平等、简单高效，提供充分的科研支持与资源。近期主要关注视觉语言模型的高效表征和安全问题，欢迎<strong>对学术有兴趣有想法、敢于探索尝试</strong>，或有较强代码能力的同学与我交流联系。</p>
 
 - <p style="font-size: 14px;">25年已无名额，26年预计有1个名额。<strong>如果的确对我的实验室非常感兴趣，请尽早联系，越早越好。</strong></p>
+
+- <p style="font-size: 14px;">I am broadly interested in how humans/machines understand vision and language. My current work focuses on efficient representation and safety. I am always looking for motivated students who are curious about our research problems, have experience reproducing research papers, and can commit to projects for 6+ months.</p>
 
 
 
