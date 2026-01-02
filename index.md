@@ -47,31 +47,27 @@ layout: homepage
   <br>
   **Hanzhang Wang**, Jiawen Zhang, and Qingyuan Ma
   <br>
-  Forty-first International Conference on Machine Learning (ICML), PMLR 235:52247-52259, 2024. (CCF-A)
+  ICML. 2024.
   
 - **Evolutionary Recurrent Neural Network for Image Captioning.**
   <br>
   **Hanzhang Wang**, Hanli Wang, and Kaisheng Xu
   <br>
-  Neurocomputing. 2020: 401, 249-256. (SCI)
+  Neurocomputing. 2020.
 
 - **Swell-and-Shrink: Decomposing Image Captioning by Transformation and Summarization.**
   <br>
   **Hanzhang Wang**, Hanli Wang, and Kaisheng Xu
-  <br>Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI). 2019: 5226-5232. (CCF-A)
+  <br>
+  IJCAI. 2019.
 
 - **Categorizing concepts with basic level for vision-to-language.**
   <br>
   **Hanzhang Wang**, Hanli Wang, and Kaisheng Xu
   <br>
-  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018: 4962-4970. (CCF-A)
+  CVPR. 2018.
 
-- **Richer semantic visual and language representation for video captioning.**
-  <br>
-  Pengjie Tang, Hanli Wang, **Hanzhang Wang**, and Kaisheng Xu
-  <br>
-  Proceedings of the 25th ACM International Conference on Multimedia (ACM MM). 2017: 1871-1876. (CCF-A)
-  
+
 ## 🥨 Projects
 
 - 2024, **Google China Academic Cooperation Project**
