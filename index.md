@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## 👀 Looking For …
+## Looking For …
 - <p style="font-size: 14px;">  实验室持续探索视觉-语言理解中的各类前沿问题，风格自由平等、简单高效，提供充分的科研支持与资源。近期主要关注视觉语言模型的高效表征和安全问题，欢迎<strong>对学术有兴趣有想法、敢于探索尝试</strong>，或有较强代码能力的同学与我交流联系。</p>
 
 - <p style="font-size: 14px;"> 打算来读研的同学：每年有很多同学联系我，我知道很大一部分原因是听说我们组氛围比较轻松，但其实我只是在管理上宽松，科研要求并不轻松。我们是纯科研组，我希望给对科研有兴趣且愿意持续投入的同学提供一个和谐支持的环境。我们实验室比较适合未来打算找算法岗或读博的同学，这样才有一致的目标和动力。我也理解大多数同学只想找开发岗或者非技术工作，但请不要只是听说我这里放实习就盲目报考。另外关于名额，这是学院统一分配的，我每年预计一个，所以如果觉得自己真的适合请尽早联系。</p>
@@ -11,7 +11,7 @@ layout: homepage
 
 
 
-## 🚞 Experience
+## Experience
   <li style="position: relative;">
   2021.11 - Present
   <span style="position: absolute; left: 150px;"><strong>Assistant Professor/讲师</strong></span>
@@ -23,19 +23,19 @@ layout: homepage
 　<span style="position: absolute; left: 350px;">Tongji University</span>
   </li>
 
-## 💖 Research Interests
+## Research Interests
 
 - **Vision-Language Understanding**
   - Captioning/Storytelling
   - Unified Representation
   - Safety
 
-## 🔮 Selected Publications
+## Selected Publications
 - **Safety-Potential Pruning for Enhancing Safety Prompts Against VLM Jailbreaking Without Retraining.**
   <br>
   Chongxin Li, **Hanzhang Wang\***, and  Lian Duan
   <br>
-  Transactions on Association for Computational Linguistics (TACL). 2026
+Transactions of the Association for Computational Linguistics (TACL). 2026
   
 - **Stabilizing iterative pruning with local adjustments and global scaling learning rate.**
   <br>
@@ -86,27 +86,27 @@ layout: homepage
   CVPR. 2018.
 
 
-## 🥨 Projects
+## Projects
 
 - 2024, **Google China Academic Cooperation Project**
 
 - 2023.1 - 2025.12, **National Natural Science Foundation of China**
 
-## 🧐 Service
+## Service
 
 - **Reviewer**
-  - ICML/ICLR/NeurIPS/AISTATS/CVPR/ICRA...
+  - ICML/ICLR/NeurIPS/AISTATS/CVPR/ICRA/TMLR...
   
-## 👥 People
+## People
 
-- Shiyu Lu, MSc
-- Chongxin Li, MSc -> Intern, ByteDance
-- Zhengyi Gu, BSc -> Intern, BOSCH -> MSc, Nanyang Technological University
-- Lian Duan, MSc
-- Qingyuan Ma, BSc -> Intern, OPPO -> MSc, University of Amsterdam
-- Jiawen Zhang, MSc -> Intern, PingAn Tech. -> Algorithm Engineer, Huawei
+- Shiyu Lu (2025-), MSc
+- Chongxin Li (2024-), MSc -> Intern, ByteDance
+- Zhengyi Gu (2023-2025), BSc -> Intern, BOSCH -> MSc, Nanyang Technological University
+- Lian Duan (2023-2026), MSc -> Engineer, PowerChina Guiyang Engineering Co
+- Qingyuan Ma (2023-2025), BSc -> Intern, OPPO -> MSc, University of Amsterdam
+- Jiawen Zhang (2022-2025), MSc -> Intern, PingAn Tech. -> Algorithm Engineer, Huawei
 
-## 💞 Lab Moments
+## Moments
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 5px; scrollbar-width: thin;">
   <img src="https://github.com/user-attachments/assets/3d501b24-e4b1-443e-a781-7edef5cb2761" alt="Lab Moments 2" height="200" />
